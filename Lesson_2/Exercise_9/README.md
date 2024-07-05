@@ -1,0 +1,1 @@
+# Viết một chương trình Java để tính lãi suất đơn giản với số tiền gốc, lãi suất hàng năm, và số năm được nhập từ người dùng. Công thức tính lãi suất đơn giản là: Lãi = Tiền gốc * Lãi suất * Số năm. Sau đó in số tiền lãi ra màn hình.

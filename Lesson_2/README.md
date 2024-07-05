@@ -29,13 +29,13 @@ Các kiểu dữ liệu thông dụng:
 
 ## Câu lệnh in ra màn hình:
 
-``` Java
+``` java
 System.out.println();
 ```
 
 ## Câu lệnh lấy giá trị từ bàn phím:
 
-``` Java
+``` java
 // Khởi tạo đối tượng của lớp Scanner
 Scanner scanner = new Scanner(System.in)
 
@@ -55,3 +55,5 @@ String name = scanner.nextLine();
 | % | Chia lấy phần dư. |
 | ++ | Tăng một giá trị lên 1 đơn vị.|
 | -- | Giảm một giá trị đi 1 đơn vị. |
+
+---

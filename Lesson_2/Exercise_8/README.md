@@ -1,0 +1,1 @@
+# Viết một chương trình Java yêu cầu người dùng nhập vào nhiệt độ dưới dạng độ C sau đó chuyển đổi nhiệt độ từ độ C sang độ F. Công thức chuyển đổi là: F = C * 9/5 + 32. Cuối cùng in độ F ra màn hình.

@@ -1,0 +1,1 @@
+# Viết chương trình yêu cầu người dùng nhập hai số từ bàn phím và sau đó in ra màn hình tổng và trung bình của hai số bạn vừa nhập.
