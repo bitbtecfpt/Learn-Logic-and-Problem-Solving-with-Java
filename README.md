@@ -1,4 +1,5 @@
-# Learn_Logic_With_Java
+# Learn Logic and Problem Solving with Java
+
 
 ## 3 Skills
 
