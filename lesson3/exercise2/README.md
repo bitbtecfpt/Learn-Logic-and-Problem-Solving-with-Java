@@ -1,0 +1,1 @@
+# Viết một chương trình cho người dùng nhập vào 1 số, kiểm tra nếu số đó chẵn thì in ra màn hình là 'even', nếu lẻ thì in ra màn hình 'odd'.

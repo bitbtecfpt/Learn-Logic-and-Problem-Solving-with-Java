@@ -1,0 +1,1 @@
+# Viết chương trìn cho người dùng nhập vào 1 số nguyên, kiểm tra người dùng có nhập số thỏa mãn điều kiện lớn hơn 0 và nhỏ hơn 10 không. Nếu thoả mãn, in ra màn hình dòng chữ 'Valid', còn nếu không thì in ra 'Invalid'
