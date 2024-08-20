@@ -1,0 +1,1 @@
+# Viết chương trình cho người dùng nhập vào một số n, in ra màn hình các số chẵn từ 1 đến n.

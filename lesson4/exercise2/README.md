@@ -1,0 +1,1 @@
+# Viết chương trình cho người dùng nhập vào 1 số n tính tổng các số từ 1 đến n rồi in kết quả ra màn hình.

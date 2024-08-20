@@ -1,0 +1,1 @@
+# Viết chương trình cho người dùng nhập vào 1 số, kiểm tra xem số đó có phải số chính phương hay không.

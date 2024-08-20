@@ -1,0 +1,1 @@
+# Viết chương trình cho người dùng nhập vào 1 số n, tính giai thừa của số đó rồi in kết quả màn hình.
