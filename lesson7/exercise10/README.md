@@ -1,0 +1,1 @@
+# Viết chương trình mã hóa một chuỗi bằng thuật toán Caesar Cipher với một bước dịch k. Người dùng nhập vào một chuỗi và một số nguyên k. Chương trình sẽ dịch chuyển mỗi ký tự trong chuỗi theo k vị trí trong bảng chữ cái và in ra chuỗi đã mã hóa.

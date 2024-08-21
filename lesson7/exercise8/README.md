@@ -1,0 +1,1 @@
+# Viết chương trình yêu cầu người dùng nhập vào một chuỗi. Chương trình sẽ loại bỏ tất cả các ký tự trùng lặp trong chuỗi và chỉ giữ lại một lần xuất hiện của mỗi ký tự.

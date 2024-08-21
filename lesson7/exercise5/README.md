@@ -1,0 +1,1 @@
+# Viết chương trình yêu cầu người dùng nhập vào một chuỗi. Chương trình sẽ đếm tần suất xuất hiện của từng ký tự trong chuỗi và in ra kết quả.

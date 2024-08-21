@@ -1,0 +1,1 @@
+# Viết chương trình yêu cầu người dùng nhập vào một chuỗi. Chương trình sẽ kiểm tra xem chuỗi đó có rỗng hay không và in ra kết quả.

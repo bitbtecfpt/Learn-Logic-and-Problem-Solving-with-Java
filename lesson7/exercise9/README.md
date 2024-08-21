@@ -1,0 +1,1 @@
+# Viết chương trình yêu cầu người dùng nhập vào hai chuỗi. Chương trình sẽ kiểm tra xem hai chuỗi có phải là hoán vị của nhau hay không (các ký tự trong chuỗi này có thể sắp xếp lại để trở thành chuỗi kia).

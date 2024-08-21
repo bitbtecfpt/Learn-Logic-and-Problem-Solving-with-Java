@@ -1,0 +1,1 @@
+# Viết chương trình cho người dùng nhập vào 2 chuỗi và so sánh xem 2 chuỗi đó có giống nhau hay không.

@@ -1,0 +1,1 @@
+# Viết chương trình yêu cầu người dùng nhập vào một chuỗi và hai chuỗi con start, end. Chương trình sẽ kiểm tra xem chuỗi đó có bắt đầu bằng chuỗi con start và kết thúc bằng chuỗi con end hay không.

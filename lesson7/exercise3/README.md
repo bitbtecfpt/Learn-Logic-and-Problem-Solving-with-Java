@@ -1,0 +1,1 @@
+# Viết chương trình yêu cầu người dùng nhập vào hai chuỗi. Chương trình sẽ kiểm tra xem chuỗi thứ hai có phải là chuỗi con của chuỗi thứ nhất hay không và in ra kết quả.

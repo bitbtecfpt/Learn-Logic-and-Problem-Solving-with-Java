@@ -1,0 +1,1 @@
+# Viết chương trình yêu cầu người dùng nhập vào một chuỗi đã được mã hóa theo dạng a3b2c4 (nghĩa là có 3 ký tự 'a', 2 ký tự 'b', và 4 ký tự 'c'). Chương trình sẽ giải nén chuỗi này và in ra chuỗi đầy đủ (aaabbcccc).

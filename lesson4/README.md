@@ -70,4 +70,6 @@ while (i < 5) {
 # break và continue
 
 - Câu lệnh 'break' giúp thoát khỏi vòng lặp.
-- Câu lệnh 'continue' giúp bỏ qua lần lặp hiện tại và đi đến lần lặp tiếp theo
+- Câu lệnh 'continue' giúp bỏ qua lần lặp hiện tại và đi đến lần lặp tiếp theo.
+
+---
