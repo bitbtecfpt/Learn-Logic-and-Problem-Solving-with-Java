@@ -1,0 +1,1 @@
+# Viết chương trình kiểm tra xem một số nguyên dương mà người dùng nhập vào có phải là số thuận nghịch hay không (số đọc xuôi và ngược đều như nhau, ví dụ: 121, 12321).

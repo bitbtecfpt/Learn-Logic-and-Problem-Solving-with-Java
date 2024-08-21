@@ -1,0 +1,1 @@
+# Viết chương trình cho người dùng nhập vào một số, kiểm tra xem số đó có phải số hoàn hảo hay không.

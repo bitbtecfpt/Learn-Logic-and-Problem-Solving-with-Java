@@ -66,3 +66,8 @@ while (i < 5) {
 - i < 5 trả về 'true' thì in i ra màn hình và tăng i lên một đơn vị, sau đó lại quay lại kiểm tra điều kiện.
 
 ---
+
+# break và continue
+
+- Câu lệnh 'break' giúp thoát khỏi vòng lặp.
+- Câu lệnh 'continue' giúp bỏ qua lần lặp hiện tại và đi đến lần lặp tiếp theo

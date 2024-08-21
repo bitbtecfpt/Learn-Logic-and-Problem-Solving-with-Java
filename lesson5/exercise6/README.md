@@ -1,0 +1,2 @@
+# Viết chương trình Java kiểm tra xem một số nguyên dương n có phải là số Armstrong hay không. 
+# Số Armstrong là số mà tổng của các lũy thừa bậc k của từng chữ số bằng chính nó, trong đó k là số chữ số của n. Ví dụ: 153 là số Armstrong vì 1^3 + 5^3 + 3^3 = 153.

@@ -1,0 +1,1 @@
+# Viết chương trình nhập vào hai số nguyên dương a và b. Tìm và in ra ước chung lớn nhất (UCLN) và bội chung nhỏ nhất (BCNN) của hai số này.
