@@ -1,0 +1,1 @@
+# Viết chương trình yêu cầu người dùng nhập vào một mảng số nguyên gồm 10 phần tử. Chương trình sẽ tìm và in ra phần tử xuất hiện nhiều nhất trong mảng. Nếu có nhiều phần tử có số lần xuất hiện bằng nhau, phần tử tại index nhỏ hơn.

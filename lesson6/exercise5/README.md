@@ -1,0 +1,1 @@
+# Viết chương trình yêu cầu người dùng nhập vào từng giá trị của một mảng số nguyên có 5 phần tử. Chương trình sẽ tìm kiếm phần tử lớn nhất và nhỏ nhất trong mảng và in ra màn hình.

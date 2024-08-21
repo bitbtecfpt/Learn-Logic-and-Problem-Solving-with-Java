@@ -1,0 +1,1 @@
+Viết chương trình yêu cầu người dùng nhập vào hai mảng số nguyên, mỗi mảng gồm 5 phần tử. Chương trình sẽ gộp hai mảng này thành một mảng mới và in ra mảng đã gộp.

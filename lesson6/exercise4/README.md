@@ -1,0 +1,1 @@
+# Viết chương trình yêu cầu người dùng nhập vào từng giá trị của một mảng số nguyên có 5 phần tử. Chương trình sẽ tính và in ra tổng các phần tử trong mảng.

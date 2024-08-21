@@ -1,7 +1,3 @@
-# Cơ bản về lập trình.
-
----
-
 # Giới thiệu các cú pháp Java cơ bản.
 
 ---
@@ -9,11 +5,6 @@
 ## Biến và kiểu dữ liệu.
 
 Biến dùng để lưu trữ dữ liệu.
-
-```
-Cú pháp khởi tạo biến:
-<Kiểu_dữ_liệu> <Tên_biến> = <Giá_trị_của_biến>;
-```
 
 Các kiểu dữ liệu thông dụng:
 
@@ -26,6 +17,26 @@ Các kiểu dữ liệu thông dụng:
 | char | Lưu trữ các ký tự đơn lẻ. |
 | boolean | Lưu trữ giá trị 'true' hoặc 'false'.|
 | String | Lưu trữ một chuỗi các ký tự. |
+
+Cú pháp khai báo biến:
+
+``` Java
+KiểuDữLiệu TênBiến = GiáTrị;
+```
+
+Ví dụ:
+
+``` Java
+// Tạo một biến có tên là name thuộc kiểu String và gán cho nó giá trị "John"
+String name = "John";
+```
+
+Cũng có thể khai báo một biến mà không cần gán giá trị. Ta có thể gán giá trị cho biến đó sau.
+
+``` Java
+int myNum;
+myNum = 15;
+```
 
 ## Câu lệnh in ra màn hình:
 

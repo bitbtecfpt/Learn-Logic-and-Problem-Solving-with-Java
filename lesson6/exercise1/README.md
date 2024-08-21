@@ -1,0 +1,1 @@
+# Viết một chương trình in ra màn hình từng phần tử của một mảng bất kỳ được khai báo gồm 5 phần tử.

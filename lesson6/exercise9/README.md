@@ -1,0 +1,1 @@
+# Viết chương trình yêu cầu người dùng nhập vào một mảng số nguyên gồm 10 phần tử. Chương trình sẽ loại bỏ các phần tử trùng lặp và in ra mảng mới chứa các phần tử duy nhất.

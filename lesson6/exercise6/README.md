@@ -1,0 +1,1 @@
+# Viết chương trình yêu cầu người dùng nhập vào một mảng số nguyên có 5 phần tử và một số nguyên x. Chương trình sẽ đếm và in ra số lần xuất hiện của x trong mảng.
