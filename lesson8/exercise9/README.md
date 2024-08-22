@@ -1,6 +1,6 @@
-# Viết chương trình quản lý ngân hàng với các chức năng sau:
+# Viết chương trình quản lý tài khoảng ngân hàng với các chức năng sau:
 
-- Mở tài khoản mới (ID, Tên chủ sở hữu, Số dư hiện có).
+- Lưu trữ các thông tin sau: Tên chủ tài khoản, số dư.
 - Nạp tiền vào tài khoản.
 - Rút tiền từ tài khoản.
 - Hiển thị số dư tài khoản.

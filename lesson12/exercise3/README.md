@@ -1,0 +1,1 @@
+# Viết chương trình quản lý điểm thi của sinh viên với các chức năng: nhập thông tin sinh viên và điểm thi của 3 môn, hiển thị thông tin điểm của tất cả sinh viên, tính điểm trung bình, và xếp hạng sinh viên theo điểm trung bình và sửa, xoá thông tin sinh viên bất kỳ.
