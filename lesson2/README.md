@@ -21,8 +21,14 @@ Các kiểu dữ liệu thông dụng:
 Cú pháp khai báo biến:
 
 ``` Java
-KiểuDữLiệu TênBiến = GiáTrị;
+type variableName = value;
 ```
+
+Giải thích:
+
+- type là kiểu dữ liệu.
+- variableName là tên biến.
+- value là giá trị được gán cho biến.
 
 Ví dụ:
 

@@ -1,0 +1,1 @@
+# Viết chương trình yêu cầu người dùng nhập vào một mảng số nguyên. Chương trình sẽ tách các số chẵn và lẻ ra thành hai mảng khác nhau và in ra kết quả.

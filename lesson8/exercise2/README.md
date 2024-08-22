@@ -1,0 +1,1 @@
+# Viết chương trình yêu cầu người dùng nhập vào một mảng số nguyên. Chương trình sẽ đảo ngược mảng và in ra mảng đã đảo ngược.

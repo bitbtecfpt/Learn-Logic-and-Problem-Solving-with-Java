@@ -1,0 +1,1 @@
+# Viết chương trình yêu cầu người dùng nhập vào một mảng số nguyên. Chương trình sẽ tính và in ra giá trị trung bình cộng của các phần tử trong mảng.

@@ -1,0 +1,1 @@
+# Viết chương trình yêu cầu người dùng nhập vào một mảng số nguyên. Chương trình sẽ kiểm tra xem mảng có phải là đối xứng không và in ra kết quả.
