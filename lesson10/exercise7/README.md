@@ -1,0 +1,1 @@
+# Viết hàm đệ quy để tính x^n (x mũ n) với x là cơ số và n là số mũ. x và n được nhập vào.

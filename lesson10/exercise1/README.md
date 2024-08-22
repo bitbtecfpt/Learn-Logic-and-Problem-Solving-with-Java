@@ -1,0 +1,1 @@
+# Viết hàm đệ quy để tính giai thừa của một số nguyên dương n được nhập vào.

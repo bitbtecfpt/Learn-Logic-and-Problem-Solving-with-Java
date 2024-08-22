@@ -1,0 +1,1 @@
+# Viết hàm đệ quy để tìm phần tử lớn nhất trong một mảng các số nguyên được nhập vào.
