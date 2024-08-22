@@ -1,0 +1,1 @@
+# Nhập vào tọa độ 2 điểm A(xA, yA) và B(xB, yB) trên không gian 2 chiều. Tính khoảng cách AB.

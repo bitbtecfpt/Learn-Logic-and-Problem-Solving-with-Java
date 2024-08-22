@@ -1,0 +1,1 @@
+# Viết chương trình nhập vào tọa độ (xC, yC) là tâm của một đường tròn, và R là bán kính của đường tròn đó. Nhập vào tọa độ (xM, yM) của điểm M. Xác định điểm M nằm trong, nằm trên hay nằm ngoài đường tròn

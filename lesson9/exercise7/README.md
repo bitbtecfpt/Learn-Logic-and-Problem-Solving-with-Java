@@ -1,0 +1,1 @@
+# Viết chương trình nhập vào ngày, tháng, năm. Xác định xem ngày đó là ngày thứ bao nhiêu kể từ ngày đầu tiên sau công nguyên.

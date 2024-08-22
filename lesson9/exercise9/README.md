@@ -1,0 +1,1 @@
+# Viết chương trình nhập vào 2 mốc thời gian (ngày, tháng, năm, giờ, phút, giây). Tính thời gian đã trải qua giữa 2 mốc thời gian này.

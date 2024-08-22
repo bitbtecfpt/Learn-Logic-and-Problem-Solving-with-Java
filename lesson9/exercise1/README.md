@@ -1,0 +1,1 @@
+# Viết chương trình giải phương trình bậc 2 (dạng ax^2 + bx + c = 0). Người dùng sẽ nhập vào 3 giá trị a, b và c.

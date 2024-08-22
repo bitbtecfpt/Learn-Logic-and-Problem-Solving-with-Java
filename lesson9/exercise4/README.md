@@ -1,0 +1,1 @@
+# Viết chương trình nhập vào một số n, in ra màn hình tam giác rỗng có n tầng.

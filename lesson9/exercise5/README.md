@@ -1,0 +1,1 @@
+# Một cặp số nguyên dương được gọi là số bạn bè nếu tổng các ước số của số này bằng chính số kia. Hãy viết chương trình kiểm tra xem 2 số nhập vào có phải là số bạn bè hay không.
