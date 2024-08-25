@@ -1,4 +1,4 @@
-# Kiểm tra năng lực
+# Đánh giá năng lực
 
 ## Tháp Hà Nội - Có ba cột (A, B, C) và n đĩa có kích thước khác nhau, được xếp chồng lên nhau theo thứ tự từ lớn nhất ở dưới cùng đến nhỏ nhất ở trên cùng trên cột A.
 

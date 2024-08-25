@@ -1,4 +1,4 @@
-# Hàm
+# Hàm (Function)
 
 Hàm là một khối mã chỉ chạy khi được gọi.
 
