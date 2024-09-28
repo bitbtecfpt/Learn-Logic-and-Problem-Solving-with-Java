@@ -31,5 +31,7 @@ public class Exercise3 {
         } else {
             System.out.println("Khong phai tam giac");
         }
+
+        banphim.close();
     }
 }
