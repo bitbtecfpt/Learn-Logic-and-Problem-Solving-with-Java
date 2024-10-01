@@ -1,6 +1,7 @@
 package lesson4.exercise2;
 
 import java.util.Scanner;
+
 public class Exercise2 {
     public static void main(String[] args) {
 
@@ -18,11 +19,13 @@ public class Exercise2 {
         //     i++;
         // }
 
-        // for(int i = 1; i <= n ; i++)
-        // {
-        //     sum = sum + i;
-        // }
+        for(int i = 1; i <= n ; i++)
+        {
+            sum = sum + i;
+        }
 
         System.out.println("Tong: " + sum);
+
+        scanner.close();
     }
 }
