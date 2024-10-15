@@ -1,3 +1,4 @@
+package lesson7.exercise1;
 import java.util.Scanner;
 
 public class Exercise1 {
